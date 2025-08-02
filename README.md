@@ -20,7 +20,7 @@ Control music playback using hand gestures with OpenCV-based hand tracking.
 ---
 
 ### 2. Gesture-Controlled Device Selector
-A system that allows users to control multiple devices using hand gestures.
+A system that allows users to control multiple devices using hand gestures. 
 
 #### Features
 - **Right Hand**: Select different devices.
