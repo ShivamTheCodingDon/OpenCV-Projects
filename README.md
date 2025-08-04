@@ -5,7 +5,7 @@ This repository showcases various projects involving gesture-based and voice-con
 ## Projects
 
 ### 1. Gesture Control Music Player 🎵🤚
-Control music playback using hand gestures with OpenCV-based hand tracking. 
+Control music playback using hand gestures with OpenCV-based hand tracking.  
 
 #### Features
 - 🎵 Play music with a gesture 
