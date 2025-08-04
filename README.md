@@ -12,7 +12,7 @@ Control music playback using hand gestures with OpenCV-based hand tracking.
 - ⏸️ Pause music with a gesture    
 - ⏭️ Skip to the next track 
 - 📷 Uses OpenCV for real-time hand tracking  
-
+ 
 #### Technologies Used 
 - Python  
 - OpenCV 🎥
