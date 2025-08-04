@@ -17,7 +17,7 @@ Control music playback using hand gestures with OpenCV-based hand tracking.
 - Python  
 - OpenCV 🎥
 
----
+--- 
 
 ### 2. Gesture-Controlled Device Selector
 A system that allows users to control multiple devices using hand gestures. 
